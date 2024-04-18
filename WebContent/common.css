@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+
+body {
+  background: #eee;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+.W10 {width:10% !important;}
+.W20 {width:20% !important;}
+.W28 {width:28% !important;}
+.W29 {width:29% !important;}
+.W30 {width:30% !important;}
+.W40 {width:40% !important;}
+.W50 {width:50% !important;}
+.W60 {width:60% !important;}
+.W70 {width:70% !important;}
+.W80 {width:80% !important;}
+.W90 {width:90% !important;}
+.W100 {width:100% !important;}
+
+.Wd30 {width:30px !important;}
+.Wd40 {width:40px !important;}
+.Wd80 {width:80px !important;}
+.Wd100 {width:70px !important;}
+
+.Fl{float: left !important;}
+.Fr{float: right !important;}
+
+

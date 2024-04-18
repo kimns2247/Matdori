@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/Login/HeavaImpl.java=UTF-8
+encoding//src/Login/HeavaLogin_3.java=UTF-8
+encoding//src/Login/UserLoginServlet.java=UTF-8
+encoding//src/MdrDAO/MdrDAO.java=UTF-8
+encoding//src/com/heava/my/HeavaFindPW.java=UTF-8
+encoding//src/com/heava/my/HeavaImpl.java=UTF-8
+encoding//src/com/heava/my/HeavaPasswordChange.java=UTF-8
+encoding//src/com/heava/my/MdrPurchase.java=UTF-8
+encoding//src/com/mycom/main1/SawonFrontController.java=UTF-8
+encoding//src/smtp/NaverSMTP.java=UTF-8
+encoding//src/smtp/SendProcess.java=UTF-8
+encoding//src/telinfoDAO/TelInfoDAO.java=UTF-8
+encoding//src/telinfoDBConn/TelInfoDBConn.java=UTF-8

@@ -1,0 +1,116 @@
+@charset "UTF-8";
+
+    .swiper {
+      width: 100%;
+      height: 100%;
+    }
+
+    .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      background: #fff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .swiper-slide img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .swiper {
+      width: 100%;
+      height: 300px;
+      margin: 20px auto;
+    }
+
+    .append-buttons {
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    .append-buttons button {
+      display: inline-block;
+      cursor: pointer;
+      border: 1px solid #007aff;
+      color: #007aff;
+      text-decoration: none;
+      padding: 4px 10px;
+      border-radius: 4px;
+      margin: 0 10px;
+      font-size: 13px;
+    }
+    
+.pgjaj02 {
+    margin:0px 400px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 52px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: #ff3d00;
+    color: var(--_1ltqxco3);
+    font-size: var(--_1ltqxcov);
+    font-weight: var(--_1ltqxco10);
+    z-index:1000;
+}
+
+.infobox{
+ font-size: 20px;
+}
+
+.centerBox {width: 60%;min-width: 500px;margin: auto;background-color: #FFFFFF;padding: 25px;}
+.title {height: 50px;line-height: 50px;margin-bottom: 20px;}
+.title h3 {font-size: 18px;font-weight: bold;margin: 0px;height: 32px;line-height: 32px;}
+.title p.note {margin: 0px;height: 18px;line-height: 18px;font-size: 10px;}
+
+.registerBox {width: 100%;height: 100%;}
+.registerBox .label{width: 100%;height: 20px;line-height: 20px;font-size: 12px;font-weight: 600; margin-top: 10px;}
+.registerBox .label span{color: #FF0000;font-weight: bold;}
+.registerBox .content{width: 100%;height: 35px;line-height: 35px; font-size: 12px;}
+.registerBox .content .chkNote{font-size: 14px;font-weight: bold;width: 40%;text-align: center;letter-spacing: 0px;}
+
+input[type="text"] {height: 25px;line-height: 25px;border: solid 1px #D5D5D5;background-color: #FFFFFF;padding: 3px 7px;font-size: 12px;border-radius: 3px;}
+input[type="text"]:disabled {background-color: #BDBDBD;}
+input[type="password"] {height: 25px;line-height: 25px;border: solid 1px #D5D5D5;padding: 3px;font-size: 12px;border-radius: 5px;}
+input[type="radio"] {height: 25px;line-height: 25px;border: solid 1px #D5D5D5;background-color: #FFFFFF;padding: 3px 7px;font-size: 12px;border-radius: 3px;}
+input[type="radio"] + label {height: 25px;line-height: 25px;}
+input[type="button"] {background-color: #00b6ef;height: 32px;padding: 5px 25px;border: none;border-radius: 3px;color: #FFFFFF;font-size: 12px;font-weight: bold;vertical-align: middle;text-align: center;}
+input:-ms-input-placeholder {
+  color:  #D5D5D5;
+  font-style: italic;
+}
+select {width: 120px;padding: 8px 7px;color: #000000;border: solid 1px #D5D5D5;background-color: #FFFFFF;box-sizing:border-box;border-radius: 3px;}
+
+
+  /* 
+    로고 변경 
+  
+  
+   .member{ width: 10px;  border: 1px solid #000;  margin: auto; 중앙 정렬 padding: 0 20px; margin-bottom: 20px;
+}
+
+.member .logo{
+    로고는 이미지라 인라인 블록이니까 마진 오토 안됨 블록요소만 됨
+    display: block;
+    margin :50px auto;
+}
+
+.member .field{
+    margin :5px 0; 상하로 좀 띄워주기
+}
+
+.member b{
+    border: 1px solid #000;
+    display: block; 수직 정렬하기
+    margin-bottom: 5px;
+} */
+  

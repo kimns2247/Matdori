@@ -1,0 +1,153 @@
+@charset "UTF-8";
+
+body {
+    font-family: "BMHANNAPro";
+}
+
+@font-face {
+    font-family: "BMHANNAPro";
+    src: url("../fonts/BMHANNAPro.ttf");
+}
+    
+.button1 {
+   width: 265px;
+       background-color: grey; 
+       height:  40px;
+       padding: 5px 15px;
+       border: none;
+       border-radius: 3px;
+       color: #ffffff; 
+       font-size: 15px;
+       /* font-weight: bold; */
+       vertical-align: middle;
+       text-align: center;
+ }
+
+.button2 {
+   width: 265px;
+       background-color: #ff3d00; 
+       height:  40px;
+       padding: 5px 15px;
+       border: none;
+       border-radius: 3px;
+       color: #ffffff;
+       font-size: 15px;
+       /* font-weight: bold; */
+       vertical-align: middle;
+       text-align: center;
+}    
+
+.taR{
+   text-align: right;
+   width:100%
+}
+  /* 데스크탑 화면 */
+@media (min-width: 992px) {
+   .errConDiv{
+      display: block;
+      text-align: center!important;
+      margin-top: 3rem!important;
+      
+   }
+   .errConDiv > .img{
+      margin-top: 95px;
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       justify-content: center;
+   }
+   .errConDiv > .img img{    
+      width: 125px;
+       height: 125px;
+   }
+   .errConDiv > h2{
+      margin-bottom: 1.5rem!important;
+   }
+   .errConDiv > .con{    
+      width: 600px;
+       margin: auto;
+       margin-top: 1.5rem!important;
+   }
+   .errConDiv > .con > p{    
+      margin-top: 10px;
+      text-align: left;
+       font-family: var(--bs-font-monospace);
+       font-size: 18px;
+   }
+}
+
+/* 태블릿 화면 */
+@media (max-width: 991px) {
+   .errConDiv{
+      display: block;
+      text-align: center!important;
+      margin-top: 3rem!important;
+      
+   }
+   .errConDiv > .img{
+      margin-top: 95px;
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       justify-content: center;
+   }
+   .errConDiv > .img img{    
+      width: 100px;
+       height: 100px;
+   }
+   .errConDiv > .mb-4{
+      margin-bottom: 1.5rem!important;
+   }
+   .errConDiv > .con{    
+      width: 570px;
+       margin: auto;
+       margin-top: 1.5rem!important;
+   }
+   .errConDiv > .con > p{    
+      margin-top: 10px;
+      text-align: left;
+       font-family: var(--bs-font-monospace);
+       font-size: 16px;
+   }
+   .errConDiv > .con > .errBtn .button2{
+      margin-top: 5px;
+   }
+}
+
+/* 모바일 화면 */
+@media (max-width: 767px) {   
+   .errConDiv{
+      display: block;
+      text-align: center!important;
+      margin-top: 3rem!important;
+      
+   }
+   .errConDiv > .img{
+      margin-top: 95px;
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       justify-content: center;
+   }
+   .errConDiv > .img img{    
+      width: 70px;
+       height: 70px;
+   }
+   .errConDiv > .mb-4{
+      margin-bottom: 1.5rem!important;
+   }
+   .errConDiv > .con{    
+      width: 400px;
+       margin: auto;
+       margin-top: 1.5rem!important;
+   }
+   .errConDiv > .con > p{    
+      margin-top: 10px;
+      text-align: left;
+       font-family: var(--bs-font-monospace);
+       font-size: 14px;
+   }
+   .errConDiv > .con > .errBtn .button2{
+      margin-top: 5px;
+   }
+}
