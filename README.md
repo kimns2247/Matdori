@@ -75,6 +75,8 @@
 - 게시판 & 댓글 페이지 <br>
 <img src="https://github.com/kimns2247/Matdori/assets/64635483/f8518f28-5bb3-4358-a129-31059e4f8505.jpg" width="50%"></img> <br>
 
+<img src="assets/64635483/f8518f28-5bb3-4358-a129-31059e4f8505.jpg" width="50%">
+
 
 
 
