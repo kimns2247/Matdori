@@ -1,16 +1,5 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20Matdori👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulz'%20&descAlign=70.&descAlignY=44)
 
-  <style>
-        .image-grid {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            gap: 20px; /* 이미지 사이의 간격 조절 */
-        }
-
-        .image-item {
-            width: 100%; /* 이미지 크기를 조절 */
-        }
-    </style>
 <h1>Eclipse - Project - Matdori</h1>
 
 ![KakaoTalk_20240422_095425502-사이즈조절](https://github.com/kimns2247/Matdori/assets/64635483/4b81fcad-6335-4a1a-be99-b8e259743336)  
@@ -64,11 +53,12 @@
 # 웹사이트 Usage
 
 로그인 페이지 <br>
+<div>
 ![image](https://github.com/kimns2247/Matdori/assets/64635483/6b81f8df-a1d5-49dc-a352-f0403d24f5a7)
 
 회원가입 페이지 <br>
 ![image](https://github.com/kimns2247/Matdori/assets/64635483/74d18f78-d853-4328-b9f0-62ad019bac76)
-
+</div>
 아이디 찾기 페이지 <br>
 ![image](https://github.com/kimns2247/Matdori/assets/64635483/de2894e8-0600-4b88-aea8-b00f692e04aa)
 
