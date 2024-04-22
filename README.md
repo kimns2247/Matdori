@@ -10,7 +10,7 @@
 
 
 
-![image](https://github.com/kimns2247/Matdori/assets/64635483/b0114b89-98a6-4973-81db-931dee76b23b)
+<a href="https://www.flaticon.com/kr/free-icons/-" title="모래 시계 아이콘">모래 시계 아이콘 제작자: Freepik - Flaticon</a>
 <h1>개발 기간</h1> 
 2024 - 1/5 ~ 2/6
 
