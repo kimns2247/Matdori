@@ -51,7 +51,7 @@
 <br><br>
 
 # 웹사이트 Usage
-
+<br>
 - 로그인 & 회원 가입 페이지<br>
 <div>
 <img src="https://github.com/kimns2247/Matdori/assets/64635483/6b81f8df-a1d5-49dc-a352-f0403d24f5a7.jpg" width="400" & height="400"></img>  
@@ -64,12 +64,14 @@
 <img src="https://github.com/kimns2247/Matdori/assets/64635483/de2894e8-0600-4b88-aea8-b00f692e04aa.jpg" width="400" & height="400"></img> 
 <img src="https://github.com/kimns2247/Matdori/assets/64635483/3f182a4a-f4f6-4939-b37b-0d335103d59f.jpg" width="400" & height="400"></img>
 </div>
+<br><br><br>
 
 - 결제 & 예약 내역 페이지 <br>
 <div>
 <img src="https://github.com/kimns2247/Matdori/assets/64635483/22882949-c12b-4087-aa5a-91dff38f9f77.jpg" width="400" & height="400"></img> 
 <img src="https://github.com/kimns2247/Matdori/assets/64635483/49ad667a-98c1-4cbf-af8f-ab1af5ceac6c.jpg" width="400" & height="400"></img>
 </div>
+<br><br><br>
 
 - 게시판 & 댓글 페이지 <br>
 <img src="https://github.com/kimns2247/Matdori/assets/64635483/f8518f28-5bb3-4358-a129-31059e4f8505.jpg" width="50%"></img> <br>
