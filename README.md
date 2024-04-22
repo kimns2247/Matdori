@@ -20,8 +20,8 @@
 - 팀원 안희지 : 메인 CSS
 - 팀원 조세현 : 메인 CSS
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
-    🛠️ Project Stacks </h2> <br> 
+
+    🛠️ Project Stacks <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> 
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
