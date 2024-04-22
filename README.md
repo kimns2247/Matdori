@@ -47,6 +47,7 @@
    <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=JPA&logoColor=white"/>
 
 </details>
+<br><br>
 
 <h1>웹사이트 화면구성</h1>
 
