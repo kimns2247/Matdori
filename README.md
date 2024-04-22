@@ -53,7 +53,6 @@
 # 웹사이트 Usage
 
 - 로그인 페이지  <br>
-![image](https://github.com/kimns2247/Matdori/assets/64635483/824bc7ef-85d6-425c-a051-e191129036d7)
 
 <img src="https://github.com/kimns2247/Matdori/assets/64635483/6b81f8df-a1d5-49dc-a352-f0403d24f5a7.jpg" width="50%"></img>   <br> 
 
