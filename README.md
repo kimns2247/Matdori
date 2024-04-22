@@ -1,7 +1,7 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulz'%20&descAlign=70.&descAlignY=44)
 <h1># Matdori Project</h1>
-<h1>Matdori는 예약 및 결제를 통해 음식점을 이용하고, 
-  사용자들간의 커뮤니티(대화)를 통해 의견을 공유 할 수 있는 웹페이지입니다.</h1>
+<h1>Matdori는 예약 및 결제를 통해 음식점을 이용하고, </h1>
+<h1>사용자들간의 커뮤니티(대화)를 통해 의견을 공유 할 수 있는 웹페이지입니다.</h1>
 
 
 <details>
