@@ -58,10 +58,10 @@
 <img src="https://github.com/kimns2247/Matdori/assets/64635483/74d18f78-d853-4328-b9f0-62ad019bac76.jpg" width="400" & height="400"></img>
 </div>
 
-- 아이디 찾기 & 마이페이지 <br>
+- 아이디 찾기 & 마이페이지<br>
 <div>
-<img src="https://github.com/kimns2247/Matdori/assets/64635483/de2894e8-0600-4b88-aea8-b00f692e04aa.jpg" width="375" & height="400"></img> <br>
-<img src="https://github.com/kimns2247/Matdori/assets/64635483/3f182a4a-f4f6-4939-b37b-0d335103d59f.jpg" width="375" & height="400"></img> <br>
+<img src="https://github.com/kimns2247/Matdori/assets/64635483/de2894e8-0600-4b88-aea8-b00f692e04aa.jpg" width="400" & height="400"></img> 
+<img src="https://github.com/kimns2247/Matdori/assets/64635483/3f182a4a-f4f6-4939-b37b-0d335103d59f.jpg" width="400" & height="400"></img>
 </div>
 
 - 결제 & 예약 내역 페이지 <br>
