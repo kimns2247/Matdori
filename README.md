@@ -1,4 +1,10 @@
-# Matdori Project <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=green"/>
+# Matdori Project 
+
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
 
 예약 및 결제를 통한 음식점 웹 사이트 입니다.
 
