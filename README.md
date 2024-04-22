@@ -9,9 +9,7 @@
     사용자들간의 커뮤니티(대화)를 통해 의견을 공유 할 수 있는 웹페이지입니다.</h2>
 
 
-## 개발 기간
-
-![free-icon-hourglass-1029925 (1)](https://github.com/kimns2247/Matdori/assets/64635483/8f28b960-034b-47ab-8df9-bc566fc927f1)
+## 개발 기간![free-icon-hourglass-1029925 (1)](https://github.com/kimns2247/Matdori/assets/64635483/8f28b960-034b-47ab-8df9-bc566fc927f1)
 - 2024 - 1/5일 ~ 2/6일
 
 ## 팀 구성
