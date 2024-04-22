@@ -49,8 +49,6 @@
 
 ![image](https://github.com/kimns2247/Matdori/assets/64635483/6b81f8df-a1d5-49dc-a352-f0403d24f5a7)
 
-![image](https://github.com/kimns2247/Matdori/assets/64635483/c2b4e731-00e7-4070-b67b-a7393c69549d)
-
 ![image](https://github.com/kimns2247/Matdori/assets/64635483/74d18f78-d853-4328-b9f0-62ad019bac76)
 
 ![image](https://github.com/kimns2247/Matdori/assets/64635483/de2894e8-0600-4b88-aea8-b00f692e04aa)
