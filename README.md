@@ -53,12 +53,10 @@
 # 웹사이트 Usage
 
 - 로그인 페이지
-  
-  
-  <img src="https://github.com/kimns2247/Matdori/assets/64635483/6b81f8df-a1d5-49dc-a352-f0403d24f5a7.jpg" width="50%"></img>   
+<img src="https://github.com/kimns2247/Matdori/assets/64635483/6b81f8df-a1d5-49dc-a352-f0403d24f5a7.jpg" width="50%"></img>   <br> 
 
 - 회원가입 페이지
-  <img src="https://github.com/kimns2247/Matdori/assets/64635483/74d18f78-d853-4328-b9f0-62ad019bac76.jpg" width="50%"></img>
+<img src="https://github.com/kimns2247/Matdori/assets/64635483/74d18f78-d853-4328-b9f0-62ad019bac76.jpg" width="50%"></img>
 
 
 
