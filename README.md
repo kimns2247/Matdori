@@ -49,7 +49,7 @@
 </details>
 <br><br>
 
-<h1>웹사이트 화면구성</h1>
+# 웹사이트 Usage
 
 로그인 페이지 <br>
 ![image](https://github.com/kimns2247/Matdori/assets/64635483/6b81f8df-a1d5-49dc-a352-f0403d24f5a7)
