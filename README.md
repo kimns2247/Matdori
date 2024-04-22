@@ -60,28 +60,24 @@
 <img src="https://github.com/kimns2247/Matdori/assets/64635483/74d18f78-d853-4328-b9f0-62ad019bac76.jpg" width="50%"></img> <br>
 
 
-
-  
-
-회원가입 페이지 <br>
-![image](https://github.com/kimns2247/Matdori/assets/64635483/74d18f78-d853-4328-b9f0-62ad019bac76)
+- 회원가입 페이지 <br>
+<img src="https://github.com/kimns2247/Matdori/assets/64635483/74d18f78-d853-4328-b9f0-62ad019bac76.jpg" width="50%"></img> <br>
 
 
+- 아이디 찾기 페이지 <br>
+<img src="https://github.com/kimns2247/Matdori/assets/64635483/de2894e8-0600-4b88-aea8-b00f692e04aa.jpg" width="50%"></img> <br>
 
-아이디 찾기 페이지 <br>
-![image](https://github.com/kimns2247/Matdori/assets/64635483/de2894e8-0600-4b88-aea8-b00f692e04aa)
+- 마이페이지 <br>
+<img src="https://github.com/kimns2247/Matdori/assets/64635483/3f182a4a-f4f6-4939-b37b-0d335103d59f.jpg" width="50%"></img> <br>
 
-마이페이지 <br>
-![image](https://github.com/kimns2247/Matdori/assets/64635483/3f182a4a-f4f6-4939-b37b-0d335103d59f)
+- 결제 페이지 <br>
+<img src="https://github.com/kimns2247/Matdori/assets/64635483/22882949-c12b-4087-aa5a-91dff38f9f77.jpg" width="50%"></img> <br>
 
-결제 페이지 <br>
-![image](https://github.com/kimns2247/Matdori/assets/64635483/22882949-c12b-4087-aa5a-91dff38f9f77)
+- 예약 내역 페이지 <br>
+<img src="https://github.com/kimns2247/Matdori/assets/64635483/49ad667a-98c1-4cbf-af8f-ab1af5ceac6c.jpg" width="50%"></img> <br>
 
-예약 내역 페이지 <br>
-![image](https://github.com/kimns2247/Matdori/assets/64635483/49ad667a-98c1-4cbf-af8f-ab1af5ceac6c)
-
-게시판 & 댓글 페이지 <br>
-![image](https://github.com/kimns2247/Matdori/assets/64635483/f8518f28-5bb3-4358-a129-31059e4f8505)
+- 게시판 & 댓글 페이지 <br>
+<img src="https://github.com/kimns2247/Matdori/assets/64635483/f8518f28-5bb3-4358-a129-31059e4f8505.jpg" width="50%"></img> <br>
 
 
 
