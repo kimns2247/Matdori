@@ -1,7 +1,7 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulz'%20&descAlign=70.&descAlignY=44)
+![image](https://github.com/kimns2247/Matdori/assets/64635483/031524e4-e6e1-4146-9c44-9f4713c4370d)
 <h1># Matdori Project</h1> 
 
-![image](https://github.com/kimns2247/Matdori/assets/64635483/031524e4-e6e1-4146-9c44-9f4713c4370d)
 
 <h2>Matdori는 예약 및 결제를 통해 음식점을 이용하고, <br>
     사용자들간의 커뮤니티(대화)를 통해 의견을 공유 할 수 있는 웹페이지입니다.</h2>
