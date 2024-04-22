@@ -9,7 +9,7 @@
 - 또한 사용자들 간의 리뷰, 평가, 추천을 통해 음식과 음식점에 대한 정보를 교류할 수 있는 커뮤니케이션의 역할도 가능하도록 하였습니다. 
 - 이러한 측면들을 통해 음식점과 소비자들 간의 상호 작용을 촉진하고자 하는 목적을 가지고 개발하였습니다.
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeho13&layout=compact)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimns2247&layout=compact)
 
 
 ## 개발 기간 ![free-icon-hourglass-1029925 (1)](https://github.com/kimns2247/Matdori/assets/64635483/8f28b960-034b-47ab-8df9-bc566fc927f1)
