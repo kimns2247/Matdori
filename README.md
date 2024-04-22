@@ -10,8 +10,7 @@
 
 
 
-<a href="https://www.flaticon.com/kr/free-icons/-" title="모래 시계 아이콘">모래 시계 아이콘 제작자: Freepik - Flaticon</a>
-<h1>개발 기간</h1> 
+![free-icon-hourglass-1029925 (1)](https://github.com/kimns2247/Matdori/assets/64635483/8f28b960-034b-47ab-8df9-bc566fc927f1)  <h1>개발 기간</h1> 
 2024 - 1/5 ~ 2/6
 
 팀 구성
